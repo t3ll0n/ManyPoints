@@ -1,0 +1,53 @@
+
+Name: Tellon Smith
+Course: CS 1063 - Data Structures & ADT, Spring 15, Dr. Stringfellow
+Program Assignment: #3
+Due Date: Wednesday, Mar. 11, 2015, 9AM
+Purpose: This program reads in multiple point values (x,y) from an input
+         file and outputs the distance between successive points
+         it then sorts the points in ascending order and offers
+         the option to remove a point
+
+Welcome to the Many Points Distance Program!
+_____________________________
+Point A   Point B    Distance
+_____________________________
+(-30,-40) (-50,-40)  20.00
+(-50,-40) (-60,-20)  22.36
+(-60,-20) (-50,10)   31.62
+(-50,10)  (-30,30)   28.28
+(-30,30)  (0,60)     42.43
+(0,60)    (30,30)    42.43
+(30,30)   (50,10)    28.28
+(50,10)   (60,-20)   31.62
+(60,-20)  (50,-40)   22.36
+(50,-40)  (30,-40)   20.00
+(30,-40)  (20,-30)   14.14
+(20,-30)  (0,-10)    28.28
+(0,-10)   (-20,-30)  28.28
+(-20,-30) (-30,-40)  14.14
+
+The total distance is 374.24
+_____________________________
+Point A   Point B    Distance
+_____________________________
+(-60,-20) (-50,-40)  22.36
+(-50,-40) (-50,10)   50.00
+(-50,10)  (-30,-40)  53.85
+(-30,-40) (-30,30)   70.00
+(-30,30)  (-20,-30)  60.83
+(-20,-30) (0,-10)    28.28
+(0,-10)   (0,60)     70.00
+(0,60)    (20,-30)   92.20
+(20,-30)  (30,-40)   14.14
+(30,-40)  (30,30)    70.00
+(30,30)   (50,-40)   72.80
+(50,-40)  (50,10)    50.00
+(50,10)   (60,-20)   31.62
+(60,-20)  (-60,-20) 120.00
+
+The total distance is 806.09
+
+No point was removed!
+
+Thank you for using the Many Points Distance Program... Goodbye!
